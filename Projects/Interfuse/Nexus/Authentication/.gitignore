@@ -1,0 +1,11 @@
+bin/
+obj/
+
+.vs/
+.vscode/
+
+nexus.authentication.db
+nexus.authentication.db-shm
+nexus.authentication.db-wal
+
+appsettings.Development.json
